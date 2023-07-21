@@ -1,0 +1,15 @@
+Home work
+
+1. find the diff and use of block and inline element?
+2. Can we convert block element to inline element?
+ ans --<p style="background-color:rgb(236, 227, 143); display: inline;">Lorem i</p> converted into inline
+     <span style="background-color: aqua;display: block;">Lorem ipsum dolor sit amet.</span> convert into block.
+3. Table creation
+4. Forms ---Multiple option select kaise kare (h/w)
+   ques: 3 option mai se ek hi radio button select karna hai
+
+5. Media 
+ qes:- In img tag loading lazy attribute kya hai?
+  que: By using iframe please create map wala picture like in google map
+
+(Name), always looking to connect with fellow veterans, if you are open to it, I would love to connect?
